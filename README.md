@@ -1,8 +1,8 @@
-# 🖼️ MasynTech AI Background Remover
+# 🖼️AI Background Remover
 
 A clean, responsive web app that removes image backgrounds instantly using the **Slazzer AI API** — no signups, no installs, just drag, drop, and download.
 
-![MasynTech AI Background Remover](https://img.shields.io/badge/AI-Background%20Remover-4f46e5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMSAxNlYxNGE0IDQgMCAwIDAtNC00aC00YTQgNCAwIDAgMC00IDRIMTV2LTJhNCA0IDAgMCAxIDQgNHYyaDJ6Ii8+PC9zdmc+)
+![AI Background Remover](https://img.shields.io/badge/AI-Background%20Remover-4f46e5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMSAxNlYxNGE0IDQgMCAwIDAtNC00aC00YTQgNCAwIDAgMC00IDRIMTV2LTJhNCA0IDAgMCAxIDQgNHYyaDJ6Ii8+PC9zdmc+)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
